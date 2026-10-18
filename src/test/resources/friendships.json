@@ -1,0 +1,74 @@
+[
+  {
+    "id": {
+      "left": 1,
+      "right": 2
+    },
+    "idUser1": 1,
+    "idUser2": 2,
+    "friendsFrom": "2024-01-15T10:30:00"
+  },
+  {
+    "id": {
+      "left": 2,
+      "right": 3
+    },
+    "idUser1": 2,
+    "idUser2": 3,
+    "friendsFrom": "2024-02-01T14:20:00"
+  },
+  {
+    "id": {
+      "left": 4,
+      "right": 5
+    },
+    "idUser1": 4,
+    "idUser2": 5,
+    "friendsFrom": "2024-03-10T18:45:00"
+  },
+  {
+    "id": {
+      "left": 1,
+      "right": 6
+    },
+    "idUser1": 1,
+    "idUser2": 6,
+    "friendsFrom": "2024-04-01T09:15:00"
+  },
+  {
+    "id": {
+      "left": 6,
+      "right": 7
+    },
+    "idUser1": 6,
+    "idUser2": 7,
+    "friendsFrom": "2024-04-12T16:00:00"
+  },
+  {
+    "id": {
+      "left": 7,
+      "right": 8
+    },
+    "idUser1": 7,
+    "idUser2": 8,
+    "friendsFrom": "2024-05-03T11:30:00"
+  },
+  {
+    "id": {
+      "left": 8,
+      "right": 9
+    },
+    "idUser1": 8,
+    "idUser2": 9,
+    "friendsFrom": "2024-05-20T20:10:00"
+  },
+  {
+    "id": {
+      "left": 9,
+      "right": 10
+    },
+    "idUser1": 9,
+    "idUser2": 10,
+    "friendsFrom": "2024-06-01T13:45:00"
+  }
+]
